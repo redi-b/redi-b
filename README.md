@@ -7,7 +7,7 @@
 --- 
 
 
-# 👋 Hello
+## 👋 Hello
 
 🎓 I am currently a Computer Science student at Addis Ababa University.
 
@@ -30,9 +30,9 @@
 
 ## 📊 GitHub Stats  
 
-![Rediet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redi-b&theme=dark&hide_border=true)
+![Rediet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redi-b&theme=dark)
 
-![Rediet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redi-b&layout=compact&theme=dark&hide_border=true)
+[![Rediet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redi-b&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 ## 📫 How to Reach Me
 
